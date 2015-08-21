@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Hardware Repair",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed orci elit. In at luctus purus. Vestibulum mollis malesuada est. Morbi nisl arcu, ultrices vitae tortor et, consectetur faucibus sem. Etiam sollicitudin sollicitudin tristique. Integer congue nisi pellentesque sapien elementum, vitae egestas elit volutpat. Quisque quis vestibulum ligula, id aliquam justo. Donec ipsum orci, rutrum nec diam vel, congue sodales sem. Sed sed dui id tortor venenatis fringilla. Vestibulum at vulputate metus, eu aliquet magna. Nunc sodales vitae erat a accumsan.",
+        "image": "computer-icon.png"
+    },
+    {
+        "id": 2,
+        "name": "Virus Removal",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed orci elit. In at luctus purus. Vestibulum mollis malesuada est. Morbi nisl arcu, ultrices vitae tortor et, consectetur faucibus sem. Etiam sollicitudin sollicitudin tristique. Integer congue nisi pellentesque sapien elementum, vitae egestas elit volutpat. Quisque quis vestibulum ligula, id aliquam justo. Donec ipsum orci, rutrum nec diam vel, congue sodales sem. Sed sed dui id tortor venenatis fringilla. Vestibulum at vulputate metus, eu aliquet magna. Nunc sodales vitae erat a accumsan.",
+        "image": "computer-icon.png"
+    },
+    {
+        "id": 3,
+        "name": "System Tuneup",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed orci elit. In at luctus purus. Vestibulum mollis malesuada est. Morbi nisl arcu, ultrices vitae tortor et, consectetur faucibus sem. Etiam sollicitudin sollicitudin tristique. Integer congue nisi pellentesque sapien elementum, vitae egestas elit volutpat. Quisque quis vestibulum ligula, id aliquam justo. Donec ipsum orci, rutrum nec diam vel, congue sodales sem. Sed sed dui id tortor venenatis fringilla. Vestibulum at vulputate metus, eu aliquet magna. Nunc sodales vitae erat a accumsan.",
+        "image": "computer-icon.png"
+    }
+]
